@@ -9,3 +9,7 @@ function print2() {
 function newfeature() {
     console.log("New feature added successfully in project ");
 }
+
+function newfeatureA() {
+    console.log("feature  A added successfully in project ");
+}
