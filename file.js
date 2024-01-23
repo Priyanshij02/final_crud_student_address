@@ -3,5 +3,9 @@ function print() {
 }
 
 function print2() {
-    console.log("  my name is Priyanshi Jian , i am a backend devv ");
+    console.log("  my name is Priyanshi Jian , i am a backend dev ");
+}
+
+function newfeature() {
+    console.log("New feature added successfully in project ");
 }
