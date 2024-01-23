@@ -13,4 +13,5 @@ function newfeature() {
 function newfeatureA() {
     console.log("feature  A added successfully in project ");
     console.log(">>>>>>>>>>>.feature  A added successfully in project ");
+    console.log("!!!!!!!!!!.feature  A added successfully in project ");
 }
