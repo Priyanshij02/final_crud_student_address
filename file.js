@@ -1,7 +1,7 @@
 function print() {
-    console.log("Good morinng ");
+    console.log("Good morinng || afternoon ");
 }
 
 function print2() {
-    console.log("  >>>>>>> after reverting ");
+    console.log("  my name is Priyanshi Jian , i am a backend devv ");
 }
