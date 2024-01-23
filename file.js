@@ -15,3 +15,8 @@ function newfeatureA() {
     console.log(">>>>>>>>>>>.feature  A added successfully in project ");
     console.log("!!!!!!!!!!.feature  A added successfully in project ");
 }
+function newfeatureA() {
+    console.log("feature  A added successfully in project ");
+    console.log(">>>>>>>>>>>.feature  A added successfully in project ");
+    console.log("!!!!!!!!!!.feature  A added successfully in project ");
+}
